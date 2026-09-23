@@ -22,4 +22,4 @@ dif = totalDias2 - totalDias1
 if dif < 0:
     dif *= -1
 
-print('Sao', dif, 'dias entre as duas datas')
+print('Sao', dif, 'dias entre as duas datasss')
