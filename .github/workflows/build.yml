@@ -16,4 +16,4 @@ jobs:
           python-version: '3.12'
 
       - name: Rodar teste
-        run: python Dias_teste.py
+        run: python Dias.py
